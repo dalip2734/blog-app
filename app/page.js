@@ -1,9 +1,10 @@
+import Header from '@/Components/Header'
+import React from 'react'
 
-
-export default function Home() {
-  return
-  (
-    <>
-    </>
+const Home = () => {
+  return (
+   <Header />
   )
 }
+
+export default Home
